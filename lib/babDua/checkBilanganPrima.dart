@@ -61,8 +61,8 @@ class _PrimeNumberCheckerState extends State<PrimeNumberChecker> {
             SizedBox(height: 20.0),
             Text(
               isPrime
-                  ? '$number is a prime number'
-                  : '$number is not a prime number',
+                  ? '$number adalah bilangan prima'
+                  : '$number bukan bilangan prima',
               style: TextStyle(fontSize: 20.0),
             ),
           ],
